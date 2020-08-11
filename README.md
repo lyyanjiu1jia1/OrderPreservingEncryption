@@ -1,0 +1,2 @@
+# OrderPreservingEncryption
+Standalone version
